@@ -1,6 +1,8 @@
+#Investigación / Script
+
+
 # Script
 #Script desarrollado mediante el lenguaje de programacion BASH (Linux), un simple codigo hecho para la resolucion de problemas lo mas rapido y sencillo posible.
-
 
 #!/bin/bash
 
